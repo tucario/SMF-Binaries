@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "macos": {
+    "version": "1.0.0",
+    "build": 1,
+    "url": "https://raw.githubusercontent.com/tucario/SMF-Binaries/main/TranSFlator-1.0.0.dmg",
+    "releaseNotesUrl": "https://github.com/tucario/SMF-Binaries/commits/main/TranSFlator-1.0.0.dmg",
+    "minOsVersion": "12.0",
+    "mandatory": false
+  },
+  "windows": {
+    "version": "1.0.0",
+    "build": 1,
+    "url": "https://raw.githubusercontent.com/tucario/SMF-Binaries/main/TranSFlator-Setup-1.0.0.exe",
+    "releaseNotesUrl": "https://github.com/tucario/SMF-Binaries/commits/main/TranSFlator-Setup-1.0.0.exe",
+    "mandatory": false
+  }
+}
